@@ -1294,3 +1294,8 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+
+#loom-companion-mv3 {
+  display: none !important;
+}
